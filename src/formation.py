@@ -133,7 +133,6 @@ def main():
 
         # Visualize the results
         plt_figure = visualize_team_compactness(player_positions, compactness)
-        plt_figure.savefig('team_compactness.png')
         plt.show()
 
     db.close()
