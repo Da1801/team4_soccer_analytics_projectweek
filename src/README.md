@@ -1,4 +1,4 @@
-# README Main script
+# README Data script
 
 ## Project Overview
 This project extracts and analyzes team transition data from a football (soccer) database. The goal is to track ball possession losses and subsequent defensive actions within a specified timeframe. The extracted data is stored in CSV format for further analysis.
