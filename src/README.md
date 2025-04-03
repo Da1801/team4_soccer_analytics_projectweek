@@ -21,7 +21,7 @@ The script automatically creates an output directory:
 2. Run the script using:
 
    ```bash
-   python script_name.py
+   python Main.py
    ```
 3. The script will process data for all teams and output results.
 
