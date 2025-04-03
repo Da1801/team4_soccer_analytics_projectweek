@@ -130,9 +130,6 @@ def main():
     if player_positions:
         compactness = calculate_team_compactness(player_positions)
         print(f"Team compactness at timestamp {timestamp}: {compactness:.2f} square units")
-
-        # Visualize the results
-        plt_figure = visualize_team_compactness(player_positions, compactness)
         plt.show()
 
     db.close()
