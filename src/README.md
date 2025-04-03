@@ -44,11 +44,3 @@ Found 10417 actions for Club Brugge
 ```
 This confirms the number of actions retrieved per team.
 
-## Future Improvements
-- Add visualizations for defensive recovery patterns.
-- Optimize SQL queries for better performance.
-- Extend metrics to include additional defensive statistics.
-
-## Contact
-For questions or issues, feel free to reach out to the project maintainer.
-
