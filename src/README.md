@@ -7,7 +7,7 @@ This project extracts and analyzes team transition data from a football (soccer)
 Ensure the following Python libraries are installed before running the script:
 
 ```bash
-pip install pandas numpy matplotlib seaborn tabulate
+pip install pandas numpy matplotlib seaborn tabulate xgboost sklearn
 ```
 
 Additionally, ensure you have a working `util` module that provides a `DatabaseConnection` class for database interaction.
